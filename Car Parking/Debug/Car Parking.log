@@ -1,0 +1,8 @@
+﻿  Car Parking.cpp
+C:\Users\Ahsan\source\repos\CPMS\Car Parking\Car Parking.cpp(245,93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahsan\source\repos\CPMS\Car Parking\Car Parking.cpp(164,17): warning C4101: 'vehicle2': unreferenced local variable
+C:\Users\Ahsan\source\repos\CPMS\Car Parking\Car Parking.cpp(162,17): warning C4101: 'menu': unreferenced local variable
+C:\Users\Ahsan\source\repos\CPMS\Car Parking\Car Parking.cpp(373,16): warning C4244: 'return': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahsan\source\repos\CPMS\Car Parking\Car Parking.cpp(378,16): warning C4244: 'return': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Ahsan\source\repos\CPMS\Car Parking\Car Parking.cpp(369): warning C4715: 'fee': not all control paths return a value
+  Car Parking.vcxproj -> C:\Users\Ahsan\source\repos\CPMS\Debug\Car Parking.exe
